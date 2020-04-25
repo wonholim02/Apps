@@ -6,6 +6,7 @@
 * Java
   * Android Studio
 * XML
+  * Android Studio
 * Javascript
   * Android Studio
 * React Native
