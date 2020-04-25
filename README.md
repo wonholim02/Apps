@@ -5,6 +5,7 @@
 ## Programming Languages
 * Java
   * Android Studio
+* XML
 * Javascript
   * Android Studio
 * React Native
