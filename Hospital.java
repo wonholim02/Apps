@@ -1,3 +1,6 @@
+/******************************************
+This is a java code for MobileSanitizer App
+*******************************************/
 package com.example.mobilesanitizer;
 
 import androidx.annotation.NonNull;
