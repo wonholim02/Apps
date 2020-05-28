@@ -1,6 +1,3 @@
-/******************************************
-This is a java code for MobileSanitizer App
-*******************************************/
 package com.example.vgocproject;
 
 import androidx.appcompat.app.AppCompatActivity;
