@@ -1,3 +1,6 @@
+/******************************************
+This is a part of java code for VGOC Project
+*******************************************/
 package com.example.vgocproject;
 
 import androidx.appcompat.app.AppCompatActivity;
