@@ -1,3 +1,7 @@
+/******************************************
+This is a java code for MobileSanitizer App
+(!)API is used
+*******************************************/
 package com.example.mobilesanitizer;
 
 import androidx.appcompat.app.AppCompatActivity;
