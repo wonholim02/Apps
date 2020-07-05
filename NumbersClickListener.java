@@ -1,3 +1,6 @@
+/***************************
+This is code for Korean App
+***************************/
 package com.example.koreanapp;
 
 import android.view.View;
